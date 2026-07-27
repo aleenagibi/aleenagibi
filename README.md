@@ -88,8 +88,8 @@ A multi-layered defense strategy hardening LLMs at multiple stages of the pipeli
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aleenagibi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14&border_color=30363D" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleenagibi&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&border_color=30363D" width="30%"/>
+<img src="https://raw.githubusercontent.com/aleenagibi/aleenagibi/main/assets/stats.svg" width="48%"/>
+<img src="https://raw.githubusercontent.com/aleenagibi/aleenagibi/main/assets/top-langs.svg" width="30%"/>
 
 <img src="https://streak-stats.demolab.com/?user=aleenagibi&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&currStreakNum=E6F7EC&sideNums=E6F7EC&dates=8B949E" width="80%"/>
 

@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/aleenagibi/aleenagibi/main/assets/glitch-hero.svg" width="100%" alt="Aleena Gibi — animated hero"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=2600&pause=700&color=8B949E&center=true&vCenter=true&repeat=true&width=760&lines=%24+whoami;final-year+B.Sc.+(Hons.+Research)+Data+Science+%26+AI+%40+CHRIST+Delhi+NCR;%24+cat+goals.txt;pursuing+a+master%27s+in+applied+AI%2FML%2FNLP+%40+Germany;%24+tail+-f+currently.log;building+GreenLens+%E2%80%94+a+carbon-aware+LLM+inference+router" alt="typing terminal"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=2600&pause=700&color=8B949E&center=true&vCenter=true&repeat=true&width=760&lines=%24+whoami;final-year+B.Sc.+(Hons.+Research)+Data+Science+%26+AI+%40+CHRIST+Delhi+NCR;%24+tail+-f+currently.log;building+GreenLens+%E2%80%94+a+carbon-aware+LLM+inference+router" alt="typing terminal"/>
 
 </div>
 

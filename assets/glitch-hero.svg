@@ -50,13 +50,13 @@
 
   <!-- subtitle -->
   <text x="450" y="150" text-anchor="middle" font-family="'Fira Code', monospace" font-size="16" fill="#39ff14" opacity="0">
-    AI SECURITY RESEARCHER · FULL-STACK ENGINEER
+    AI/ML ENGINEER · RESEARCH + FULL-STACK
     <animate attributeName="opacity" values="0;0;0;1;1;1;0" keyTimes="0;0.2;0.24;0.28;0.85;0.95;1" dur="8s" repeatCount="indefinite"/>
   </text>
 
   <!-- status line -->
   <text x="450" y="182" text-anchor="middle" font-family="'Fira Code', monospace" font-size="12.5" fill="#8b949e" opacity="0">
-    STATUS: <tspan fill="#39ff14">SECURE</tspan> — sanitization ✓  adversarial training ✓  backdoor detection ✓
+    STATUS: <tspan fill="#39ff14">ONLINE</tspan> — research ✓  full-stack systems ✓  applied ML ✓
     <animate attributeName="opacity" values="0;0;0;1;1;1;0" keyTimes="0;0.28;0.32;0.36;0.85;0.95;1" dur="8s" repeatCount="indefinite"/>
   </text>
 

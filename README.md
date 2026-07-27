@@ -40,7 +40,12 @@ Databases
 
 DevOps & Tooling
 
-<img src="https://skillicons.dev/icons?i=git,docker,githubactions,vscode&theme=dark" /> <br/> <img src="https://raw.githubusercontent.com/aleenagibi/aleenagibi/main/assets/scanline.svg" width="100%"/> <br/> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2200&pause=100000&repeat=false&color=FF9D00&center=false&vCenter=true&width=420&height=32&lines=PHASE_03+%3A%3A+SYSTEMS_SHIPPED" alt="Phase 03"/>
+<img src="https://skillicons.dev/icons?i=git,docker,githubactions,vscode&theme=dark" /> 
+<br/> 
+<img src="https://raw.githubusercontent.com/aleenagibi/aleenagibi/main/assets/scanline.svg" width="100%"/> 
+<br/> 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2200&pause=100000&repeat=false&color=FF9D00&center=false&vCenter=true&width=420&height=32&lines=PHASE_03+%3A%3A+SYSTEMS_SHIPPED" alt="Phase 03"/>
+
 
 ### [cross-phase-defense-framework](https://github.com/aleenagibi/cross-phase-defense-framework)
 🏆 **Best Paper, ICEIBT 2026** — the research repo behind my paper. A multi-layered defense against adversarial attacks on LLMs, hardening the pipeline at three separate stages — data sanitization, adversarial training, and runtime backdoor detection — instead of relying on any single defense. Benchmarked on DistilBERT/GPT-2 against FGSM, PGD, and DeepFool attacks on IMDB and AG News.

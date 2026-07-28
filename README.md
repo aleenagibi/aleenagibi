@@ -256,12 +256,12 @@ A multi-layered defense strategy hardening LLMs at multiple stages of the pipeli
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aleenagibi/aleenagibi/main/assets/stats.svg" width="48%"/>
+<!-- <img src="https://raw.githubusercontent.com/aleenagibi/aleenagibi/main/assets/stats.svg" width="48%"/>
 <img src="https://raw.githubusercontent.com/aleenagibi/aleenagibi/main/assets/top-langs.svg" width="30%"/>
 
-<img src="https://streak-stats.demolab.com/?user=aleenagibi&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&currStreakNum=E6F7EC&sideNums=E6F7EC&dates=8B949E" width="80%"/>
+<img src="https://streak-stats.demolab.com/?user=aleenagibi&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&currStreakNum=E6F7EC&sideNums=E6F7EC&dates=8B949E" width="80%"/> 
 
-<br/><br/>
+<br/><br/>-->
 
 <!-- Snake animation — activate after enabling the workflow in .github/workflows/snake.yml (see SETUP.md) -->
 <img src="https://raw.githubusercontent.com/aleenagibi/aleenagibi/output/snake-dark.svg" width="100%"/>

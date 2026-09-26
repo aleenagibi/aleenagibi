@@ -2,7 +2,9 @@
 
 # Aleena Gibi
 
-**Data Science & AI · AI Engineering · Building systems end-to-end — retrieval, NLP, backend, frontend, deployment**
+**Data Science & AI · AI/ML Engineering · NLP · Retrieval Systems · LLM Systems**
+
+<br/>
 
 <a href="mailto:aleenagibi2005@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Email"></a>
     <a href="https://www.linkedin.com/in/aleenagibi2005/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"></a>
@@ -73,24 +75,6 @@ GreenLens embeds incoming tasks, evaluates candidate models and deployments, and
 
 ---
 
-### 🧠 [Cross-Phase Defense Framework](https://github.com/aleenagibi/cross-phase-defense-framework)
-
-`DistilBERT` `GPT-2` `FGSM` `PGD` `DeepFool`
-
-🏆 **Best Paper Award — ICEIBT Conference 2026**
-
-A multi-layer defense framework for adversarial attacks on language models.
-
-Instead of relying on a single defense mechanism, the framework applies protection across multiple stages:
-
-**Data sanitization → adversarial training → runtime backdoor detection**
-
-The prototype was evaluated on **DistilBERT and GPT-2**, using simulated data-poisoning and backdoor attacks and benchmarking against **FGSM, PGD, and DeepFool** on the IMDB and AG News datasets.
-
-*Research paper under review for WoS publication.*
-
----
-
 ### 🔧 [School Template Engine](https://github.com/aleenagibi/school-template-engine)
 
 `FastAPI` `React` `FAISS` `Sentence-Transformers` `Babel` `Docker`
@@ -154,31 +138,55 @@ An ML-based honeypot-traffic classification system that engineers features from 
 
 ---
 
-**More projects:** [Campus Path Finder](https://github.com/aleenagibi/Campus_Path_Finder) · [Verity-AI-Fake-News-Detector]([https://github.com/aleenagibi/leetcode-solutions](https://github.com/aleenagibi/Verity-AI-Fake-News-Detector) · [Full Repository List →](https://github.com/aleenagibi?tab=repositories)
+**More projects:** [Campus Path Finder](https://github.com/aleenagibi/Campus_Path_Finder) · [Verity-AI-Fake-News-Detector](https://github.com/aleenagibi/Verity-AI-Fake-News-Detector) · [Full Repository List →](https://github.com/aleenagibi?tab=repositories)
 
 <br/>
 
 ## Experience
 
-### Frontend Developer Intern — Entab Infotech
+**Frontend Developer Intern — Entab**
 
-**Dec 2025 – Jun 2026 · Delhi**
+*Dec 2025 – Jun 2026 · Delhi, India*
 
-* Built and maintained frontend pages for school websites using modern web technologies.
-* Developed multiple landing pages and reusable inner-page components across school projects.
-* Worked within a repeated website architecture, identifying opportunities for component reuse and faster development.
-* This experience directly motivated the **School Template Engine**, which turns component discovery and reuse into a searchable workflow.
+Built and deployed production React websites and landing pages for schools and organizations across India. Developed reusable UI sections and inner pages using React, HTML, CSS, and JavaScript, and identified repetitive workflows that led to the development of the School Template Intelligence System.
+
+<br/>
+
+**Generative AI Intern — YBI Foundation**
+
+*May 2025 – Jun 2025 · Remote*
+
+Worked on Generative AI applications and developed a small NLP/LLM-based chatbot using Python and Google Colab, gaining hands-on experience with prompt engineering and AI model interaction.
+
+<br/>
+
+**Data Science Intern — Unified Mentor**
+
+*May 2024 – Jul 2024 · Remote*
+
+Developed a stock volatility prediction project using Python, Pandas, Scikit-learn, and machine learning. Performed data preprocessing and feature engineering and built a Random Forest model to classify market volatility.
+
+<br/>
+
+**AI Intern — Wayspire**
+
+*Jan 2024 – Mar 2024 · Remote*
+
+Worked on practical AI and machine learning projects using Python, applying concepts in data processing, model development, and evaluation.
 
 <br/>
 
 ## Research
 
-### Cross-Phase Defense Framework for Adversarial Attacks on Large Language Models
+### 🧠 [Cross-Phase Defense Framework for Adversarial Attacks on Large Language Models](https://github.com/aleenagibi/cross-phase-defense-framework)
 
-🏆 **Best Paper Award — ICEIBT Conference 2026**
-*Under review for WoS publication*
+`DistilBERT` `GPT-2` `FGSM` `PGD` `DeepFool`
 
-Research on a layered defense strategy for adversarial attacks across the LLM pipeline, combining data sanitization, adversarial training, and runtime backdoor detection.
+🏆 **Best Paper Award — ICEIBT Conference 2026** · *Under review for WoS publication*
+
+A multi-layer defense framework for adversarial attacks across the LLM pipeline, combining **data sanitization, adversarial training, and runtime backdoor detection** rather than relying on a single defense mechanism.
+
+The prototype was evaluated on **DistilBERT and GPT-2** using simulated data-poisoning and backdoor attacks, with benchmarking against **FGSM, PGD, and DeepFool** on the **IMDB and AG News** datasets.
 
 **Focus:** LLM security · adversarial ML · data poisoning · backdoor attacks · robustness evaluation
 
